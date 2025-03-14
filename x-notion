@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>X Feed - LomtyaLvovski</title>
+</head>
+<body style="margin:0; padding:0;">
+    <a class="twitter-timeline"
+       href="https://x.com/LomtyaLvovski"
+       data-tweet-limit="5"
+       data-chrome="noheader nofooter noborders"
+       data-theme="light">
+    Пости @LomtyaLvovski
+    </a>
+
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</body>
+</html>
